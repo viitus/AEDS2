@@ -1,0 +1,271 @@
+
+TESTE DE VETORES ALETORIOS
+Resultados obtidos a partir da média de 10 vetores
+
+QUICKSORT
+
+Número de elementos: 1000 
+Tempo de execução: 0.000300 
+Número de comparações: 6286 
+Número de movimentações: 2689 
+
+Número de elementos: 10000 
+Tempo de execução: 0.002300 
+Número de comparações: 87241 
+Número de movimentações: 34825 
+
+Número de elementos: 100000 
+Tempo de execução: 0.026800 
+Número de comparações: 1056727 
+Número de movimentações: 446504 
+
+Número de elementos: 200000 
+Tempo de execução: 0.057400 
+Número de comparações: 2211262 
+Número de movimentações: 964489 
+
+MERGESORT
+
+Número de elementos: 1000 
+Tempo de execução: 0.000300 
+Número de comparações: 8705 
+Número de movimentações: 18681 
+
+Número de elementos: 10000 
+Tempo de execução: 0.003000 
+Número de comparações: 120456 
+Número de movimentações: 254072 
+
+Número de elementos: 100000 
+Tempo de execução: 0.038200 
+Número de comparações: 1536327 
+Número de movimentações: 3205255 
+
+Número de elementos: 200000 
+Tempo de execução: 0.083400 
+Número de comparações: 3272804 
+Número de movimentações: 6810660 
+
+SELECTIONSORT
+
+Número de elementos: 1000 
+Tempo de execução: 0.001000 
+Número de comparações: 499500 
+Número de movimentações: 999 
+
+Número de elementos: 10000 
+Tempo de execução: 0.112000 
+Número de comparações: 49995000 
+Número de movimentações: 9999 
+
+Número de elementos: 100000 
+Tempo de execução: 18.856100 
+Número de comparações: 4999950000 
+Número de movimentações: 99999 
+
+Número de elementos: 200000 
+Tempo de execução: 116.552200 
+Número de comparações: 19999900000 
+Número de movimentações: 199999 
+
+INSERTIONSORT
+
+Número de elementos: 1000 
+Tempo de execução: 0.001000 
+Número de comparações: 248959 
+Número de movimentações: 248959 
+
+Número de elementos: 10000 
+Tempo de execução: 0.077500 
+Número de comparações: 24990390 
+Número de movimentações: 24990390 
+
+Número de elementos: 100000 
+Tempo de execução: 9.871400 
+Número de comparações: 2497675144 
+Número de movimentações: 2497675144 
+
+Número de elementos: 200000 
+Tempo de execução: 67.811600 
+Número de comparações: 9998028854 
+Número de movimentações: 9998028854 
+
+TESTE DE VETORES EM ORDEM CRESCENTE
+
+QUICKSORT
+
+Número de elementos: 1000 
+Tempo de execução: 0.001000 
+Número de comparações: 7987 
+Número de movimentações: 511 
+
+Número de elementos: 10000 
+Tempo de execução: 0.001000 
+Número de comparações: 113631 
+Número de movimentações: 5904 
+
+Número de elementos: 100000 
+Tempo de execução: 0.008000 
+Número de comparações: 1468946 
+Número de movimentações: 65535 
+
+Número de elementos: 200000 
+Tempo de execução: 0.017000 
+Número de comparações: 3137875 
+Número de movimentações: 131071 
+
+MERGESORT
+
+Número de elementos: 1000 
+Tempo de execução: 0.000000 
+Número de comparações: 4932 
+Número de movimentações: 14908 
+
+Número de elementos: 10000 
+Tempo de execução: 0.004000 
+Número de comparações: 64608 
+Número de movimentações: 198224 
+
+Número de elementos: 100000 
+Tempo de execução: 0.035000 
+Número de comparações: 815024 
+Número de movimentações: 2483952 
+
+Número de elementos: 200000 
+Tempo de execução: 0.096000 
+Número de comparações: 1730048 
+Número de movimentações: 5267904 
+
+SELECTIONSORT
+
+Número de elementos: 1000 
+Tempo de execução: 0.001000 
+Número de comparações: 499500 
+Número de movimentações: 999 
+
+Número de elementos: 10000 
+Tempo de execução: 0.120000 
+Número de comparações: 49995000 
+Número de movimentações: 9999 
+
+Número de elementos: 100000 
+Tempo de execução: 17.057000 
+Número de comparações: 4999950000 
+Número de movimentações: 99999 
+
+Número de elementos: 200000 
+Tempo de execução: 133.996000 
+Número de comparações: 19999900000 
+Número de movimentações: 199999 
+
+INSERTIONSORT
+
+Número de elementos: 1000 
+Tempo de execução: 0.000000 
+Número de comparações: 999 
+Número de movimentações: 999 
+
+Número de elementos: 10000 
+Tempo de execução: 0.000000 
+Número de comparações: 9999 
+Número de movimentações: 9999 
+
+Número de elementos: 100000 
+Tempo de execução: 0.010000 
+Número de comparações: 99999 
+Número de movimentações: 99999 
+
+Número de elementos: 200000 
+Tempo de execução: 0.000000 
+Número de comparações: 199999 
+Número de movimentações: 199999 
+
+TESTE DE VETORES EM ORDEM DECRESCENTE
+
+QUICKSORT
+
+Número de elementos: 1000 
+Tempo de execução: 0.000000 
+Número de comparações: 6996 
+Número de movimentações: 1010 
+
+Número de elementos: 10000 
+Tempo de execução: 0.000000 
+Número de comparações: 103644 
+Número de movimentações: 10904 
+
+Número de elementos: 100000 
+Tempo de execução: 0.010000 
+Número de comparações: 1368962 
+Número de movimentações: 115534 
+
+Número de elementos: 200000 
+Tempo de execução: 0.021000 
+Número de comparações: 2937892 
+Número de movimentações: 231070 
+
+MERGESORT
+
+Número de elementos: 1000 
+Tempo de execução: 0.000000 
+Número de comparações: 5044 
+Número de movimentações: 15020 
+
+Número de elementos: 10000 
+Tempo de execução: 0.007000 
+Número de comparações: 69008 
+Número de movimentações: 202624 
+
+Número de elementos: 100000 
+Tempo de execução: 0.045000 
+Número de comparações: 853904 
+Número de movimentações: 2522832 
+
+Número de elementos: 200000 
+Tempo de execução: 0.089000 
+Número de comparações: 1807808 
+Número de movimentações: 5345664 
+
+SELECTIONSORT
+
+Número de elementos: 1000 
+Tempo de execução: 0.000000 
+Número de comparações: 499500 
+Número de movimentações: 999 
+
+Número de elementos: 10000 
+Tempo de execução: 0.130000 
+Número de comparações: 49995000 
+Número de movimentações: 9999 
+
+Número de elementos: 100000 
+Tempo de execução: 17.198000 
+Número de comparações: 4999950000 
+Número de movimentações: 99999 
+
+Número de elementos: 200000 
+Tempo de execução: 138.215000 
+Número de comparações: 19999900000 
+Número de movimentações: 199999 
+
+INSERTIONSORT
+
+Número de elementos: 1000 
+Tempo de execução: 0.000000 
+Número de comparações: 500499 
+Número de movimentações: 500499 
+
+Número de elementos: 10000 
+Tempo de execução: 0.160000 
+Número de comparações: 50004999 
+Número de movimentações: 50004999 
+
+Número de elementos: 100000 
+Tempo de execução: 23.149000 
+Número de comparações: 5000049999 
+Número de movimentações: 5000049999 
+
+Número de elementos: 200000 
+Tempo de execução: 217.519000 
+Número de comparações: 20000099999 
+Número de movimentações: 20000099999 

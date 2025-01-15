@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\MinGW\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "c:/Users/victo/OneDrive/Documentos/UEMG/AEDS II/.vscode/c_cpp_properties.json",
+            
+        }
+    ],
+    "version": 4
+}
